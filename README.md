@@ -6,3 +6,12 @@
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | ComfyUI Colabs Templates New Nodes  | **Colab** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | Math and modded nodes | **Custom Nodes** |
 | [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) | An extensive suite of custom nodes such as image processing, depth approximation, texture creation, and more | **Custom Nodes** |
+
+## Other Links
+
+ - [ComfyUI Official Examples](https://comfyanonymous.github.io/ComfyUI_examples/)
+ - [WAS Node Suite Workflows](https://github.com/WASasquatch/was-node-suite-comfyui/tree/main/workflows)
+
+<br>
+
+*Feel free to PR your own plugins for ComfyUI.*
