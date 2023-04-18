@@ -5,6 +5,7 @@
 | [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyui is an extension for [Automatic1111's stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) that embeds ComfyUI in its own tab.  | **Other** |
 | [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | Contains 2 nodes for ComfyUI that allows for more control over the way prompt weighting should be interpreted. And let's you mix different embeddings | **Custom Nodes** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | ComfyUI Colabs Templates New Nodes  | **Colab** |
+| [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳Dockerfile for 🎨ComfyUI. ComfyUI 的容器镜像与自动更新脚本  | **Other** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | Prompt based image segmentation | **Custom Nodes** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoff is a script/extension for the Automatic1111 webui that lets users limit the effect certain attributes have on specified subsets of the prompt. | **Custom Nodes** |
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | Visual Area Conditioning / Latent composition | **Custom Nodes** |
@@ -19,6 +20,7 @@
 
  - [ComfyUI Official Examples](https://comfyanonymous.github.io/ComfyUI_examples/)
  - [WAS Node Suite Workflows](https://github.com/WASasquatch/was-node-suite-comfyui/tree/main/workflows)
+ - [SEAIT: Super Easy AI Installer Tool](https://github.com/diStyApps/seait)
 
 <br>
 
