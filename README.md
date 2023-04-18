@@ -22,6 +22,7 @@
  - [WAS Node Suite Workflows](https://github.com/WASasquatch/was-node-suite-comfyui/tree/main/workflows)
  - [SEAIT: Super Easy AI Installer Tool](https://github.com/diStyApps/seait)
 
-<br>
+---
 
-*Feel free to PR your own plugins for ComfyUI.*
+ - *Feel free to PR your own plugins for ComfyUI* 
+ - *Don't hesitate to PR a localization of the README, just suffix with the language abbreviation. For example French: `README_FR.md`*
