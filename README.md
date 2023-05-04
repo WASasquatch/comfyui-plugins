@@ -1,4 +1,4 @@
-# Custom Nodes, Extensions, and Tools for [ComfyUI](https://github.com/comfyanonymous/ComfyUI/issues)
+# Custom Nodes, Extensions, and Tools for [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
 | Name | Description | Type |
 |------|-------------|------|
