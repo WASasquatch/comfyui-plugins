@@ -7,6 +7,7 @@
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | ComfyUI Colabs 模板新节点 | **Colab** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳🎨ComfyUI 的 Dockerfile。ComfyUI 的容器镜像与自动更新脚本 | **其他** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | 基于测试的图像分割 | **自定义节点** |
+| [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | 6个ComfyUI节点，可实现更多对噪声的控制和灵活性，例如变异或"非抽样"  | **自定义节点** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoff 是用于 Automatic1111 webui 的脚本/扩展，允许用户限制某些属性对提示的指定子集的影响。| **自定义节点** |
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 可视化区域条件和潜像组成 | **自定义节点** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学和修改过的节点 | **自定义节点** |
