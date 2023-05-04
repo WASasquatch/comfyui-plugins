@@ -7,6 +7,7 @@
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | さまざまな構成の ComfyUI Colabs | **Colab** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳ComfyUIのDockerfile。ComfyUIのコンテナイメージと自動更新スクリプト | **Other** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | プロンプトに基づく画像セグメンテーション | **カスタム ノード** |
+| [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | ノイズに対するより多くの制御と柔軟性を提供する6つのComfyUIノード。バリエーションや"非サンプリング"などを行うことができます。 | **カスタムノード** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoffは、Automatic1111 webuiのスクリプト/拡張機能であり、ユーザーが指定されたプロンプトの特定のサブセットに対する特定の属性の効果を制限できるようにします。| **カスタム ノード** |
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 視覚領域調整/潜在構成 | **カスタム ノード** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学と改造ノード | **カスタム ノード** |
