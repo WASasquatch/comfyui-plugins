@@ -1,4 +1,4 @@
-# ComfyUI 的自定义节点、扩展和工具
+# [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 的自定义节点、扩展和工具
 
 | 名称 | 描述 | 类型 |
 |------|-------------|------|
