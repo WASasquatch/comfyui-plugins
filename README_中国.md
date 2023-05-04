@@ -13,6 +13,7 @@
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学和修改过的节点 | **自定义节点** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | 后处理节点添加了各种独特的图像效果 | **自定义节点** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 图像网格 (X/Y 绘图) 的简单 ComfyUI 插件 | **自定义节点** |
+| [NodeGPT](https://github.com/xXAdonesXx/NodeGPT) | 由ChatGPT开发的ComfyUI扩展节点，用于自动文本生成。 | **自定义节点** |
 | [Pythongosssss's custom scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | 自定义节点和脚本（去除背景或前景、自动排列图表、IO SVG、favicon 状态等）| **自定义节点** |
 | [TheAlly's Custom Nodes](https://civitai.com/models/19625/comfyui-custom-nodes) | TheAlly 为 ComfyUI 定制的节点套件 | **自定义节点** |
 | [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) | 具有 100 多个节点的广泛节点套件，适用于高级工作流程。图像处理、文本处理、数学、视频、gif 等等！ | **自定义节点** |
