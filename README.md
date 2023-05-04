@@ -14,7 +14,7 @@
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | A simple comfyUI plugin for images grid (X/Y Plot)  | **Custom Nodes** |
 | [Pythongosssss's custom scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | custom nodes and scripts (remove the background or foreground, auto arrange graph, IO SVG, favicon status and others) | **Custom Nodes** |
 | [TheAlly's Custom Nodes](https://civitai.com/models/19625/comfyui-custom-nodes) | Custom nodes for ComfyUI by TheAlly | **Custom Nodes** |
-| [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) | An extensive suite of custom nodes such as image processing, depth approximation, texture creation, and more | **Custom Nodes** |
+| [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) | Extensive node suite with 100+ nodes for advanced workflows. Image processing, text processing, math, video, gifs and more! | **Custom Nodes** |
 | [WAS Node Suite Colab](https://colab.research.google.com/github/WASasquatch/comfyui-colab-was-node-suite/blob/main/ComfyUI_%2B_WAS_Node_Suite.ipynb) | A colab for ComfyUI that will install WAS Node Suite | **Colab** |
 
 ## Other Links
