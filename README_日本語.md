@@ -13,6 +13,7 @@
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学と改造ノード | **カスタム ノード** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | さまざまなユニークな画像効果を追加するポストプロセッシングノード | **カスタム ノード** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 画像グリッド（X/Yプロット）のためのシンプルなComfyUIプラグイン| **カスタム ノード** |
+| [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | ComfyUIのカスタムノードパック | **カスタム ノード** |
 | [NodeGPT](https://github.com/xXAdonesXx/NodeGPT) | ChatGPT による自動テキスト生成用の ComfyUI 拡張ノード。 | **カスタムノード** |
 | [Pythongosssssのカスタムスクリプト](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | カスタムノードとスクリプト（背景または前景の削除、グラフの自動配置、IO SVG、ファビコンステータスなど） | **カスタムノード** |
 | [TheAllyのカスタムノード](https://civitai.com/models/19625/comfyui-custom-nodes) | TheAllyによるComfyUIのカスタムノード | **カスタムノード** |
