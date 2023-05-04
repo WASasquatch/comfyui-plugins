@@ -13,6 +13,7 @@
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | Math and modded nodes | **Custom Nodes** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | Post Processing nodes adding a variety of unique image effects | **Custom Nodes** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | A simple comfyUI plugin for images grid (X/Y Plot)  | **Custom Nodes** |
+| [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | Custom nodes pack for ComfyUI | **Custom Nodes** |
 | [NodeGPT](https://github.com/xXAdonesXx/NodeGPT) | ComfyUI Extension Nodes for Automated Text Generation.  | **Custom Nodes** |
 | [Pythongosssss's custom scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | custom nodes and scripts (remove the background or foreground, auto arrange graph, IO SVG, favicon status and others) | **Custom Nodes** |
 | [TheAlly's Custom Nodes](https://civitai.com/models/19625/comfyui-custom-nodes) | Custom nodes for ComfyUI by TheAlly | **Custom Nodes** |
