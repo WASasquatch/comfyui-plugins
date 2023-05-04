@@ -3,15 +3,15 @@
 | 名称 | 説明 | タイプ |
 |------|-------------|------|
 | [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyuiは、[Automatic1111のstable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)の拡張機能であり、ComfyUIを自身のタブに埋め込みます。| **Other** |
-| [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | ComfyUI用の2つのノードで、プロンプトの重み付けを解釈する方法により多くの制御を提供し、異なる埋め込みを混合することができます。| **Custom Nodes** |
+| [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | ComfyUI用の2つのノードで、プロンプトの重み付けを解釈する方法により多くの制御を提供し、異なる埋め込みを混合することができます。| **カスタム ノード** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | さまざまな構成の ComfyUI Colabs | **Colab** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳ComfyUIのDockerfile。ComfyUIのコンテナイメージと自動更新スクリプト | **Other** |
-| [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | プロンプトに基づく画像セグメンテーション | **Custom Nodes** |
-| [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoffは、Automatic1111 webuiのスクリプト/拡張機能であり、ユーザーが指定されたプロンプトの特定のサブセットに対する特定の属性の効果を制限できるようにします。| **Custom Nodes** |
-| [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 視覚領域調整/潜在構成 | **Custom Nodes** |
-| [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学と改造ノード | **Custom Nodes** |
-| [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | さまざまなユニークな画像効果を追加するポストプロセッシングノード | **Custom Nodes** |
-| [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 画像グリッド（X/Yプロット）のためのシンプルなComfyUIプラグイン| **Custom Nodes** |
+| [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | プロンプトに基づく画像セグメンテーション | **カスタム ノード** |
+| [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoffは、Automatic1111 webuiのスクリプト/拡張機能であり、ユーザーが指定されたプロンプトの特定のサブセットに対する特定の属性の効果を制限できるようにします。| **カスタム ノード** |
+| [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 視覚領域調整/潜在構成 | **カスタム ノード** |
+| [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学と改造ノード | **カスタム ノード** |
+| [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | さまざまなユニークな画像効果を追加するポストプロセッシングノード | **カスタム ノード** |
+| [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 画像グリッド（X/Yプロット）のためのシンプルなComfyUIプラグイン| **カスタム ノード** |
 | [Pythongosssssのカスタムスクリプト](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | カスタムノードとスクリプト（背景または前景の削除、グラフの自動配置、IO SVG、ファビコンステータスなど） | **カスタムノード** |
 | [TheAllyのカスタムノード](https://civitai.com/models/19625/comfyui-custom-nodes) | TheAllyによるComfyUIのカスタムノード | **カスタムノード** |
 | [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) | 100以上のノードを備えた拡張ノードスイート。画像処理、テキスト処理、数学、ビデオ、GIFなど！ | **カスタムノード** |
