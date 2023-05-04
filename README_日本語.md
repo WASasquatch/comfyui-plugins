@@ -2,10 +2,10 @@
 
 | 名称 | 説明 | タイプ |
 |------|-------------|------|
-| [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyuiは、[Automatic1111のstable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)の拡張機能であり、ComfyUIを自身のタブに埋め込みます。| **Other** |
+| [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyuiは、[Automatic1111のstable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)の拡張機能であり、ComfyUIを自身のタブに埋め込みます。| **他の** |
 | [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | ComfyUI用の2つのノードで、プロンプトの重み付けを解釈する方法により多くの制御を提供し、異なる埋め込みを混合することができます。| **カスタム ノード** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | さまざまな構成の ComfyUI Colabs | **Colab** |
-| [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳ComfyUIのDockerfile。ComfyUIのコンテナイメージと自動更新スクリプト | **Other** |
+| [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳ComfyUIのDockerfile。ComfyUIのコンテナイメージと自動更新スクリプト | **他の** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | プロンプトに基づく画像セグメンテーション | **カスタム ノード** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | ノイズに対するより多くの制御と柔軟性を提供する6つのComfyUIノード。バリエーションや"非サンプリング"などを行うことができます。 | **カスタムノード** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoffは、Automatic1111 webuiのスクリプト/拡張機能であり、ユーザーが指定されたプロンプトの特定のサブセットに対する特定の属性の効果を制限できるようにします。| **カスタム ノード** |
