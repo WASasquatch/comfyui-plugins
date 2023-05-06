@@ -23,7 +23,7 @@
 ## その他のリンク
 
  - [ComfyUI公式の例](https://comfyanonymous.github.io/ComfyUI_examples/)
- - [WAS Node Suiteワークフロー](https://github.com/WASasquatch/was-node-suite-comfyui/tree/main/workflows)
+ - [WAS Node Suiteワークフロー](https://github.com/WASasquatch/was-node-suite-comfyui/wiki/Workflow-Examples)
  - [SEAIT: スーパー簡単AIインストーラーツール](https://github.com/diStyApps/seait)
  - [WORKFLOW2PNG](https://colab.research.google.com/drive/1hQMjNUdhMQ3rw1Wcm3_umvmOMeS_K4s8)
 
