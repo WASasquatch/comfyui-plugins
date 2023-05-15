@@ -8,6 +8,7 @@
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳Dockerfile for 🎨ComfyUI. ComfyUI 的容器镜像与自动更新脚本  | **Other** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | Prompt based image segmentation | **Custom Nodes** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | 6 nodes for ComfyUI that allows for more control and flexibility over noise to do e.g. variations or "un-sampling"  | **Custom Nodes** |
+| [ControlNet Pre-Processors](https://github.com/Fannovel16/comfy_controlnet_preprocessors) | Various preprocessors to be used by controlnet | **Custom Nodes** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoff is a script/extension for the Automatic1111 webui that lets users limit the effect certain attributes have on specified subsets of the prompt. | **Custom Nodes** |
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | Visual Area Conditioning / Latent composition | **Custom Nodes** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | Math and modded nodes | **Custom Nodes** |
