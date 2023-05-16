@@ -6,6 +6,7 @@
 | [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | ComfyUI用の2つのノードで、プロンプトの重み付けを解釈する方法により多くの制御を提供し、異なる埋め込みを混合することができます。| **カスタム ノード** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | さまざまな構成の ComfyUI Colabs | **Colab** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳ComfyUIのDockerfile。ComfyUIのコンテナイメージと自動更新スクリプト | **他の** |
+| [ComfyUI ディスコディフュージョン](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | このリポジトリは ComfyUI で使用するためのモジュール化されたディスコディフュージョンのバージョンを保持しています。 | **カスタムノード** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | プロンプトに基づく画像セグメンテーション | **カスタム ノード** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | ノイズに対するより多くの制御と柔軟性を提供する6つのComfyUIノード。バリエーションや"非サンプリング"などを行うことができます。 | **カスタムノード** |
 | [ComfyUIのControlNetプリプロセッサ](https://github.com/Fannovel16/comfy_controlnet_preprocessors) | ControlNetのプリプロセッサノード | **カスタムノード** |
