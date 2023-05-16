@@ -5,6 +5,7 @@
 | [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyui is an extension for [Automatic1111's stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) that embeds ComfyUI in its own tab.  | **Other** |
 | [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | Contains 2 nodes for ComfyUI that allows for more control over the way prompt weighting should be interpreted. And let's you mix different embeddings | **Custom Nodes** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | ComfyUI Colabs Templates New Nodes  | **Colab** |
+| [ComfyUI Disco Diffusion](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | This repo holds a modularized version of Disco Diffusion for use with ComfyUI. | **Custom Node** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳Dockerfile for 🎨ComfyUI. ComfyUI 的容器镜像与自动更新脚本  | **Other** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | Prompt based image segmentation | **Custom Nodes** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | 6 nodes for ComfyUI that allows for more control and flexibility over noise to do e.g. variations or "un-sampling"  | **Custom Nodes** |
