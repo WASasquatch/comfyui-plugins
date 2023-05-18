@@ -8,6 +8,7 @@
 | [ComfyUI Disco Diffusion](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | This repo holds a modularized version of Disco Diffusion for use with ComfyUI. | **Custom Node** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳Dockerfile for 🎨ComfyUI. ComfyUI 的容器镜像与自动更新脚本  | **Other** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | Prompt based image segmentation | **Custom Nodes** |
+| [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) | A custom_node UI Manager for ComfyUI | **Other** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | 6 nodes for ComfyUI that allows for more control and flexibility over noise to do e.g. variations or "un-sampling"  | **Custom Nodes** |
 | [ControlNet Preprocessors for ComfyUI](https://github.com/Fannovel16/comfy_controlnet_preprocessors) | Preprocessors nodes for ControlNet | **Custom Nodes** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoff is a script/extension for the Automatic1111 webui that lets users limit the effect certain attributes have on specified subsets of the prompt. | **Custom Nodes** |
