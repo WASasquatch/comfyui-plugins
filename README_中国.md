@@ -4,6 +4,7 @@
 |------|-------------|------|
 | [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyui 是 [Automatic1111's stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 的扩展，它将 ComfyUI 嵌入到它自己的选项卡中。  | **其他** |
 | [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | 包含两个 ComfyUI 节点，允许更好地控制提示权重的解释方式，并让您混合不同的嵌入方式 | **自定义节点** |
+| [BlenderAI Node(Based on ComfyUI)](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) | ComfyUI的blender集成, 并结合blender的渲染优势以增强ComfyUI | **工具** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | ComfyUI Colabs 模板新节点 | **Colab** |
 | [ComfyUI 迪斯科扩散](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | 该仓库包含了用于 ComfyUI 的模块化版本的迪斯科扩散。| **自定义节点** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳🎨ComfyUI 的 Dockerfile。ComfyUI 的容器镜像与自动更新脚本 | **其他** |
