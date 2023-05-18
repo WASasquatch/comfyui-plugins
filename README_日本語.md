@@ -9,6 +9,7 @@
 | [ComfyUI ディスコディフュージョン](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | このリポジトリは ComfyUI で使用するためのモジュール化されたディスコディフュージョンのバージョンを保持しています。 | **カスタムノード** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | プロンプトに基づく画像セグメンテーション | **カスタム ノード** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | ノイズに対するより多くの制御と柔軟性を提供する6つのComfyUIノード。バリエーションや"非サンプリング"などを行うことができます。 | **カスタムノード** |
+| [ComfyUI マネージャー](https://github.com/ltdrdata/ComfyUI-Manager) | ComfyUI のためのカスタムノード UI マネージャー | **その他** |
 | [ComfyUIのControlNetプリプロセッサ](https://github.com/Fannovel16/comfy_controlnet_preprocessors) | ControlNetのプリプロセッサノード | **カスタムノード** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoffは、Automatic1111 webuiのスクリプト/拡張機能であり、ユーザーが指定されたプロンプトの特定のサブセットに対する特定の属性の効果を制限できるようにします。| **カスタム ノード** |
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 視覚領域調整/潜在構成 | **カスタム ノード** |
