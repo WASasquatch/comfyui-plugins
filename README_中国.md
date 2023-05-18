@@ -8,6 +8,7 @@
 | [ComfyUI 迪斯科扩散](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | 该仓库包含了用于 ComfyUI 的模块化版本的迪斯科扩散。| **自定义节点** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳🎨ComfyUI 的 Dockerfile。ComfyUI 的容器镜像与自动更新脚本 | **其他** |
 | [ComfyUI CLIPSeg](https://github.com/biegert/ComfyUI-CLIPSeg) | 基于测试的图像分割 | **自定义节点** |
+| [ComfyUI 管理器](https://github.com/ltdrdata/ComfyUI-Manager) | 适用于 ComfyUI 的自定义节点 UI 管理器 | **其他** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | 6个ComfyUI节点，可实现更多对噪声的控制和灵活性，例如变异或"非抽样"  | **自定义节点** |
 | [ComfyUI的ControlNet预处理器](https://github.com/Fannovel16/comfy_controlnet_preprocessors) | ControlNet的预处理器节点 | 自定义节点 |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoff 是用于 Automatic1111 webui 的脚本/扩展，允许用户限制某些属性对提示的指定子集的影响。| **自定义节点** |
