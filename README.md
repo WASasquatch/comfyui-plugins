@@ -13,6 +13,7 @@
 | [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) | A custom_node UI Manager for ComfyUI | **Other** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | 6 nodes for ComfyUI that allows for more control and flexibility over noise to do e.g. variations or "un-sampling"  | **Custom Nodes** |
 | [ControlNet Preprocessors for ComfyUI](https://github.com/Fannovel16/comfy_controlnet_preprocessors) | Preprocessors nodes for ControlNet | **Custom Nodes** |
+| [CushyStudio](https://github.com/rvion/CushyStudio) | 🛋 Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI | **Front-End** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoff is a script/extension for the Automatic1111 webui that lets users limit the effect certain attributes have on specified subsets of the prompt. | **Custom Nodes** |
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | Visual Area Conditioning / Latent composition | **Custom Nodes** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | Math and modded nodes | **Custom Nodes** |
