@@ -20,6 +20,7 @@
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 画像グリッド（X/Yプロット）のためのシンプルなComfyUIプラグイン| **カスタム ノード** |
 | [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | ComfyUIのカスタムノードパック | **カスタム ノード** |
 | [NodeGPT](https://github.com/xXAdonesXx/NodeGPT) | ChatGPT による自動テキスト生成用の ComfyUI 拡張ノード。 | **カスタムノード** |
+| [OpenPose Editor](https://github.com/space-nuko/ComfyUI-OpenPose-Editor) | ComfyUI OpenPose エディタ | **カスタムノード** |
 | [Pythongosssssのカスタムスクリプト](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | カスタムノードとスクリプト（背景または前景の削除、グラフの自動配置、IO SVG、ファビコンステータスなど） | **カスタムノード** |
 | [TheAllyのカスタムノード](https://civitai.com/models/19625/comfyui-custom-nodes) | TheAllyによるComfyUIのカスタムノード | **カスタムノード** |
 | [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) | 100以上のノードを備えた拡張ノードスイート。画像処理、テキスト処理、数学、ビデオ、GIFなど！ | **カスタムノード** |
