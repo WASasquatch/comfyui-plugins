@@ -13,6 +13,7 @@
 | [ComfyUI 管理器](https://github.com/ltdrdata/ComfyUI-Manager) | 适用于 ComfyUI 的自定义节点 UI 管理器 | **其他** |
 | [ComfyUI Noise](https://github.com/BlenderNeko/ComfyUI_Noise) | 6个ComfyUI节点，可实现更多对噪声的控制和灵活性，例如变异或"非抽样"  | **自定义节点** |
 | [ComfyUI的ControlNet预处理器](https://github.com/Fannovel16/comfy_controlnet_preprocessors) | ControlNet的预处理器节点 | 自定义节点 |
+| [CushyStudio](https://github.com/rvion/CushyStudio) | 🛋 下一代生成藝術工作室（+ TypeScript SDK）- 基於 ComfyUI | **前端** |
 | [Cutoff for ComfyUI](https://github.com/BlenderNeko/ComfyUI_Cutoff) | Cutoff 是用于 Automatic1111 webui 的脚本/扩展，允许用户限制某些属性对提示的指定子集的影响。| **自定义节点** |
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 可视化区域条件和潜像组成 | **自定义节点** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学和修改过的节点 | **自定义节点** |
