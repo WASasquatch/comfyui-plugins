@@ -5,6 +5,7 @@
 | [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyuiは、[Automatic1111のstable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)の拡張機能であり、ComfyUIを自身のタブに埋め込みます。| **他の** |
 | [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | ComfyUI用の2つのノードで、プロンプトの重み付けを解釈する方法により多くの制御を提供し、異なる埋め込みを混合することができます。| **カスタム ノード** |
 | [BlenderAI Node(Based on ComfyUI)](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) | ComfyUIのblender統合と、blenderのレンダリングメリットを組み合わせてComfyUIを強化 | **ツール** |
+| [ComfyBox](https://github.com/space-nuko/ComfyBox) | バックエンドとして ComfyUI を使用する代替フロントエンドです。 | **フロントエンド** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | さまざまな構成の ComfyUI Colabs | **Colab** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳ComfyUIのDockerfile。ComfyUIのコンテナイメージと自動更新スクリプト | **他の** |
 | [ComfyUI ディスコディフュージョン](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | このリポジトリは ComfyUI で使用するためのモジュール化されたディスコディフュージョンのバージョンを保持しています。 | **カスタムノード** |
