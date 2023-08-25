@@ -7,6 +7,7 @@
 | [AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION) | 针对ComfyUI的多语言翻译插件. 实现了对常驻菜单栏/搜索栏/右键上下文菜单/节点等的翻译. | **自定义节点** |
 | [BlenderAI Node(Based on ComfyUI)](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) | ComfyUI的blender集成, 并结合blender的渲染优势以增强ComfyUI | **工具** |
 | [ComfyBox](https://github.com/space-nuko/ComfyBox) | 作為後端使用 ComfyUI 的替代前端。 | **前端** |
+| [ComfyQR](https://gitlab.com/sofuego-comfy-nodes/ComfyQR) | 二维码. | **自定义节点** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | ComfyUI Colabs 模板新节点 | **Colab** |
 | [ComfyUI 迪斯科扩散](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | 该仓库包含了用于 ComfyUI 的模块化版本的迪斯科扩散。| **自定义节点** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳🎨ComfyUI 的 Dockerfile。ComfyUI 的容器镜像与自动更新脚本 | **其他** |

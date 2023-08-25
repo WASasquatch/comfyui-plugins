@@ -7,6 +7,7 @@
 | [AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION) | ComfyUI用の多言語翻訳プラグイン常駐メニューバー/検索バー/右クリックコンテキストメニュー/ノードなどの翻訳を実現した. | ***カスタム ノード** |
 | [BlenderAI Node(Based on ComfyUI)](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) | ComfyUIのblender統合と、blenderのレンダリングメリットを組み合わせてComfyUIを強化 | **ツール** |
 | [ComfyBox](https://github.com/space-nuko/ComfyBox) | バックエンドとして ComfyUI を使用する代替フロントエンドです。 | **フロントエンド** |
+| [ComfyQR](https://gitlab.com/sofuego-comfy-nodes/ComfyQR) | QRアート作るのに専科のノードです。 | **カスタム ノード** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | さまざまな構成の ComfyUI Colabs | **Colab** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳ComfyUIのDockerfile。ComfyUIのコンテナイメージと自動更新スクリプト | **他の** |
 | [ComfyUI ディスコディフュージョン](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | このリポジトリは ComfyUI で使用するためのモジュール化されたディスコディフュージョンのバージョンを保持しています。 | **カスタムノード** |
