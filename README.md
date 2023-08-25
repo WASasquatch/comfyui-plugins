@@ -7,6 +7,7 @@
 | [AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION) | A plugin for multilingual translation of ComfyUI. This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc | **Custom Nodes** |
 | [BlenderAI Node(Based on ComfyUI)](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) | Blender Node integration of ComfyUI. Enhance ComfyUI with blender. | **Tool** |
 | [ComfyBox](https://github.com/space-nuko/ComfyBox) | A replacement front-end that uses ComfyUI as a backend. | **Front-End** |
+| [ComfyQR](https://gitlab.com/sofuego-comfy-nodes/ComfyQR) | Specialized nodes for efficient QR code workflows. | **Custom Nodes** |
 | [ComfyUI Colabs](https://github.com/camenduru/comfyui-colab) | ComfyUI Colabs Templates New Nodes  | **Colab** |
 | [ComfyUI Disco Diffusion](https://github.com/space-nuko/ComfyUI-Disco-Diffusion) | This repo holds a modularized version of Disco Diffusion for use with ComfyUI. | **Custom Node** |
 | [ComfyUI Docker File](https://github.com/YanWenKun/ComfyUI-Docker) | 🐳Dockerfile for 🎨ComfyUI. ComfyUI 的容器镜像与自动更新脚本  | **Other** |
