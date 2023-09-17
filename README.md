@@ -28,6 +28,7 @@
 | [TheAlly's Custom Nodes](https://civitai.com/models/19625/comfyui-custom-nodes) | Custom nodes for ComfyUI by TheAlly | **Custom Nodes** |
 | [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) | Extensive node suite with 100+ nodes for advanced workflows. Image processing, text processing, math, video, gifs and more! | **Custom Nodes** |
 | [WAS Node Suite Colab](https://colab.research.google.com/github/WASasquatch/comfyui-colab-was-node-suite/blob/main/ComfyUI_%2B_WAS_Node_Suite.ipynb) | A colab for ComfyUI that will install WAS Node Suite | **Colab** |
+| [Apapach](https://codeberg.org/tekakutli/apapach) | An effort to use Comfy as a Diffusers alternative (python control of the graph), and an Emacs-UI built on top of that.  | **API** |
 
 ## Other Links
 
