@@ -20,8 +20,10 @@
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 可视化区域条件和潜像组成 | **自定义节点** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学和修改过的节点 | **自定义节点** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | 后处理节点添加了各种独特的图像效果 | **自定义节点** |
+| [Image Resize](https://github.com/palant/image-resize-comfyui) | 灵活的图像调整大小节点：按比例调整大小、裁剪或填充到指定的边比、随图像调整蒙版大小 | **自定义节点** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 图像网格 (X/Y 绘图) 的简单 ComfyUI 插件 | **自定义节点** |
 | [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | 用于 ComfyUI 的自定义节点包 | **自定义节点** |
+| [Integrated Nodes](https://github.com/palant/integrated-nodes-comfyui/) | 允许将任意工作流程部分分组到单个自定义节点中 | **自定义节点** |
 | [NodeGPT](https://github.com/xXAdonesXx/NodeGPT) | 由ChatGPT开发的ComfyUI扩展节点，用于自动文本生成。 | **自定义节点** |
 | [OpenPose Editor](https://github.com/space-nuko/ComfyUI-OpenPose-Editor) | ComfyUI OpenPose 編輯器 | **自訂節點** |
 | [Pythongosssss's custom scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | 自定义节点和脚本（去除背景或前景、自动排列图表、IO SVG、favicon 状态等）| **自定义节点** |

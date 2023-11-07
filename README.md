@@ -20,8 +20,10 @@
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | Visual Area Conditioning / Latent composition | **Custom Nodes** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | Math and modded nodes | **Custom Nodes** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | Post Processing nodes adding a variety of unique image effects | **Custom Nodes** |
+| [Image Resize](https://github.com/palant/image-resize-comfyui) | A flexible image resizing node: proportional resizing, cropping or padding to specified side ratio, resizing mask along with the image | **Custom Nodes** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | A simple comfyUI plugin for images grid (X/Y Plot)  | **Custom Nodes** |
 | [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | Custom nodes pack for ComfyUI | **Custom Nodes** |
+| [Integrated Nodes](https://github.com/palant/integrated-nodes-comfyui/) | Allows grouping arbitrary workflow parts in single custom nodes | **Custom Nodes** |
 | [NodeGPT](https://github.com/xXAdonesXx/NodeGPT) | ComfyUI Extension Nodes for Automated Text Generation.  | **Custom Nodes** |
 | [OpenPose Editor](https://github.com/space-nuko/ComfyUI-OpenPose-Editor) | ComfyUI OpenPose Editor | **Custom Nodes** |
 | [Pythongosssss's custom scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | custom nodes and scripts (remove the background or foreground, auto arrange graph, IO SVG, favicon status and others) | **Custom Nodes** |
@@ -39,5 +41,5 @@
 
 ---
 
- - *Feel free to PR your own plugins for ComfyUI* 
+ - *Feel free to PR your own plugins for ComfyUI*
  - *Don't hesitate to PR a localization of the README, just suffix with the language abbreviation. For example French: `README_FR.md`*
