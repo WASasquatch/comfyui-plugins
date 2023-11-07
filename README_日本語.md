@@ -20,8 +20,10 @@
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 視覚領域調整/潜在構成 | **カスタム ノード** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学と改造ノード | **カスタム ノード** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | さまざまなユニークな画像効果を追加するポストプロセッシングノード | **カスタム ノード** |
+| [Image Resize](https://github.com/palant/image-resize-comfyui) | 柔軟な画像サイズ変更ノード: 比例的なサイズ変更、指定された辺の比率へのトリミングまたはパディング、画像に合わせたマスクのサイズ変更 | **カスタム ノード** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 画像グリッド（X/Yプロット）のためのシンプルなComfyUIプラグイン| **カスタム ノード** |
 | [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | ComfyUIのカスタムノードパック | **カスタム ノード** |
+| [Integrated Nodes](https://github.com/palant/integrated-nodes-comfyui/) | 任意のワークフロー パーツを単一のカスタム ノードにグループ化できます | **カスタム ノード** |
 | [NodeGPT](https://github.com/xXAdonesXx/NodeGPT) | ChatGPT による自動テキスト生成用の ComfyUI 拡張ノード。 | **カスタムノード** |
 | [OpenPose Editor](https://github.com/space-nuko/ComfyUI-OpenPose-Editor) | ComfyUI OpenPose エディタ | **カスタムノード** |
 | [Pythongosssssのカスタムスクリプト](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) | カスタムノードとスクリプト（背景または前景の削除、グラフの自動配置、IO SVG、ファビコンステータスなど） | **カスタムノード** |
@@ -39,4 +41,4 @@
 ---
 
  - *独自の ComfyUI プラグインをプル リクエスト*
- - *READMEのローカライズのPRに躊躇しないでください。例えば、フランス語： `README_FR.md`* 
+ - *READMEのローカライズのPRに躊躇しないでください。例えば、フランス語： `README_FR.md`*
