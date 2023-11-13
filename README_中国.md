@@ -5,6 +5,7 @@
 | [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyui 是 [Automatic1111's stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 的扩展，它将 ComfyUI 嵌入到它自己的选项卡中。  | **其他** |
 | [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | 包含两个 ComfyUI 节点，允许更好地控制提示权重的解释方式，并让您混合不同的嵌入方式 | **自定义节点** |
 | [AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION) | 针对ComfyUI的多语言翻译插件. 实现了对常驻菜单栏/搜索栏/右键上下文菜单/节点等的翻译. | **自定义节点** |
+| [AutoConnect for ComfyUI](https://github.com/palant/autoconnect-comfyui) | 自动连接按钮可自动添加节点之间缺少的连接 | **扩大** |
 | [BlenderAI Node(Based on ComfyUI)](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) | ComfyUI的blender集成, 并结合blender的渲染优势以增强ComfyUI | **工具** |
 | [ComfyBox](https://github.com/space-nuko/ComfyBox) | 作為後端使用 ComfyUI 的替代前端。 | **前端** |
 | [ComfyQR](https://gitlab.com/sofuego-comfy-nodes/ComfyQR) | 二维码. | **自定义节点** |

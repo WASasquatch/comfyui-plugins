@@ -5,6 +5,7 @@
 | [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyuiは、[Automatic1111のstable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)の拡張機能であり、ComfyUIを自身のタブに埋め込みます。| **他の** |
 | [Advanced CLIP Text Encode](https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb) | ComfyUI用の2つのノードで、プロンプトの重み付けを解釈する方法により多くの制御を提供し、異なる埋め込みを混合することができます。| **カスタム ノード** |
 | [AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION) | ComfyUI用の多言語翻訳プラグイン常駐メニューバー/検索バー/右クリックコンテキストメニュー/ノードなどの翻訳を実現した. | ***カスタム ノード** |
+| [AutoConnect for ComfyUI](https://github.com/palant/autoconnect-comfyui) | ノード間に不足している接続を自動的に追加する自動接続ボタン | **拡大** |
 | [BlenderAI Node(Based on ComfyUI)](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) | ComfyUIのblender統合と、blenderのレンダリングメリットを組み合わせてComfyUIを強化 | **ツール** |
 | [ComfyBox](https://github.com/space-nuko/ComfyBox) | バックエンドとして ComfyUI を使用する代替フロントエンドです。 | **フロントエンド** |
 | [ComfyQR](https://gitlab.com/sofuego-comfy-nodes/ComfyQR) | QRアート作るのに専科のノードです。 | **カスタム ノード** |
