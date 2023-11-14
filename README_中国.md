@@ -21,6 +21,7 @@
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 可视化区域条件和潜像组成 | **自定义节点** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学和修改过的节点 | **自定义节点** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | 后处理节点添加了各种独特的图像效果 | **自定义节点** |
+| [Extended Save Image](https://github.com/palant/extended-saveimage-comfyui) | Save Image (Extended) 节点允许以 PNG、JPEG 和 WEBP 格式保存图像 | **自定义节点** |
 | [Image Resize](https://github.com/palant/image-resize-comfyui) | 灵活的图像调整大小节点：按比例调整大小、裁剪或填充到指定的边比、随图像调整蒙版大小 | **自定义节点** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 图像网格 (X/Y 绘图) 的简单 ComfyUI 插件 | **自定义节点** |
 | [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | 用于 ComfyUI 的自定义节点包 | **自定义节点** |
