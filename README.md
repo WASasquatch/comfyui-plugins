@@ -21,6 +21,7 @@
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | Visual Area Conditioning / Latent composition | **Custom Nodes** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | Math and modded nodes | **Custom Nodes** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | Post Processing nodes adding a variety of unique image effects | **Custom Nodes** |
+| [Extended Save Image](https://github.com/palant/extended-saveimage-comfyui) | Save Image (Extended) node allowing to save images in PNG, JPEG and WEBP format | **Custom Nodes** |
 | [Image Resize](https://github.com/palant/image-resize-comfyui) | A flexible image resizing node: proportional resizing, cropping or padding to specified side ratio, resizing mask along with the image | **Custom Nodes** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | A simple comfyUI plugin for images grid (X/Y Plot)  | **Custom Nodes** |
 | [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | Custom nodes pack for ComfyUI | **Custom Nodes** |

@@ -21,6 +21,7 @@
 | [Davemane42's Custom Node](https://github.com/Davemane42/ComfyUI_Dave_CustomNode) | 視覚領域調整/潜在構成 | **カスタム ノード** |
 | [Derfuu Math and Modded Nodes](https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes#nodes-descriptions) | 数学と改造ノード | **カスタム ノード** |
 | [EllangoK's Post-Processsing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) | さまざまなユニークな画像効果を追加するポストプロセッシングノード | **カスタム ノード** |
+| [Extended Save Image](https://github.com/palant/extended-saveimage-comfyui) | 画像を PNG、JPEG、WEBP 形式で保存できる Save Image (Extended) ノード | **カスタム ノード** |
 | [Image Resize](https://github.com/palant/image-resize-comfyui) | 柔軟な画像サイズ変更ノード: 比例的なサイズ変更、指定された辺の比率へのトリミングまたはパディング、画像に合わせたマスクのサイズ変更 | **カスタム ノード** |
 | [ImagesGrid: Comfy plugin](https://github.com/LEv145/images-grid-comfy-plugin) | 画像グリッド（X/Yプロット）のためのシンプルなComfyUIプラグイン| **カスタム ノード** |
 | [ComfyUI Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) | ComfyUIのカスタムノードパック | **カスタム ノード** |
